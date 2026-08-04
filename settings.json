@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "grison.aternos.host",
+    "ip": "ide.aternos.host",
     "port": 64166 ,
     "version": "1.20.4",
     "try-creative": false
