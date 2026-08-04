@@ -5,10 +5,10 @@
     "password": "",
     "type": "offline"
   },
-  "server": {sxrch_1752nuevo.aternos.me
+  "server": {sxrch_1752nuevo.aternos.me ,
     "ip": "grison.aternos.host",
-    "port": 64166,
-    "version": "26,2",
+    "port": 64166 ,
+    "version": "26.2",
     "try-creative": false
   },
   "position": {
